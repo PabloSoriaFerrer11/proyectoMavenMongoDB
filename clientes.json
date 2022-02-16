@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "620265a9d2ad9e2efba93ecd"
+  },
+  "nombre": "Pablo Soria Ferrer",
+  "dni": "71230158D",
+  "telefono": [
+    685528916
+  ],
+  "facturas": [
+    {
+      "año": 2021,
+      "mes-provincia": "6203783b588e667a9ad0a937"
+    },
+    {
+      "año": 2021,
+      "mes-provincia": "62037873588e667a9ad0a939"
+    }
+  ],
+  "direcPrincipal": {
+    "provincia": "Valencia",
+    "ciudad": "Valencia",
+    "codpostal": "46138",
+    "calle": "C/Principe de Asturias",
+    "número": "8"
+  }
+}]

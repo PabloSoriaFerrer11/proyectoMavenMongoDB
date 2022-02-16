@@ -1,0 +1,111 @@
+[{
+  "_id": {
+    "$oid": "6203783b588e667a9ad0a937"
+  },
+  "ajenaCliente": "",
+  "mes": "Enero",
+  "provincia": "Valencia",
+  "Dia": [
+    {
+      "CUPS": "ES0021000008658161WS",
+      "hora": [
+        {
+          "wh consumidos": 275,
+          "wh producidos": 0
+        },
+        {
+          "wh consumidos": 293,
+          "wh producidos": 0
+        },
+        {
+          "wh consimidos": 89,
+          "wh producidos": 0
+        },
+        {
+          "wh consimidos": 20,
+          "wh producidos": 0
+        },
+        {
+          "wh consimidos": 22,
+          "wh producidos": 0
+        },
+        {
+          "wh consimidos": 21,
+          "wh producidos": 0
+        },
+        {
+          "wh consimidos": 268,
+          "wh producidos": 0
+        },
+        {
+          "wh consimidos": 102,
+          "wh producidos": 0
+        },
+        {
+          "wh consimidos": 31,
+          "wh producidos": 0
+        },
+        {
+          "wh consimidos": 12,
+          "wh producidos": 0
+        },
+        {
+          "wh consimidos": 14,
+          "wh producidos": 2
+        },
+        {
+          "wh consimidos": 7,
+          "wh producidos": 104
+        },
+        {
+          "wh consimidos": 1,
+          "wh producidos": 361
+        },
+        {
+          "wh consimidos": 526,
+          "wh producidos": 130
+        },
+        {
+          "wh consimidos": 61,
+          "wh producidos": 106
+        },
+        {
+          "wh consimidos": 26,
+          "wh producidos": 79
+        },
+        {
+          "wh consimidos": 80,
+          "wh producidos": 10
+        },
+        {
+          "wh consimidos": 197,
+          "wh producidos": 0
+        },
+        {
+          "wh consimidos": "104",
+          "wh producidos": 0
+        },
+        {
+          "wh consimidos": 82,
+          "wh producidos": 0
+        },
+        {
+          "wh consumidos": 442,
+          "wh producidos": 0
+        },
+        {
+          "wh consimidos": 125,
+          "wh producidos": 0
+        },
+        {
+          "wh consimidos": 485,
+          "wh producidos": 0
+        },
+        {
+          "wh consimidos": 403,
+          "wh producidos": 0
+        }
+      ]
+    }
+  ]
+}]
